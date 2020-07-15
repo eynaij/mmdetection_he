@@ -22,5 +22,6 @@ def main():
     show_result_pyplot(model, args.img, result, score_thr=args.score_thr)
 
 
+
 if __name__ == '__main__':
     main()
